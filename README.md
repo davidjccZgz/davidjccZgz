@@ -1,6 +1,6 @@
-# Bienvenido(a) al perfil de [David J Castresana]
+# Bienvenido(a) al perfil de davidjcc
 
-¡Hola! Soy [david],  profesor de marketing y publicidad apasionado por la tecnología y el desarrollo de aplicaciones para el marketing. Este README.md es una breve presentación sobre mí y mis intereses. Permíteme contarte más sobre mis áreas de especialización y cómo he aplicado la tecnología en el campo del marketing.
+¡Hola! Soy david,  profesor de marketing y publicidad apasionado por la tecnología y el desarrollo de aplicaciones para el marketing. Este README.md es una breve presentación sobre mí y mis intereses. Permíteme contarte más sobre mis áreas de especialización y cómo he aplicado la tecnología en el campo del marketing.
 
 ## Sobre mí
 
